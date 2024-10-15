@@ -1,0 +1,50 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .hero-text {
+        font-size: 12vw;
+        left: -18%;
+        color:#c51b1b;
+        
+
+      
+      }
+      .hero-text-2 {
+        font-size: 12vw;
+        right: -18%;
+        text-decoration: 8px #c51b1b line-through;
+       
+      }
+
+      /* .project-card{
+        min-height: 300px;
+      }
+       */
+      .section-padding{
+        padding: 3vh 0;
+      }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 1076px) {
+    .hero-text {
+        font-size: 12vw;
+        left: -18%;
+        color:#c51b1b;
+        
+
+      
+      }
+      .hero-text-2 {
+        font-size: 12vw;
+        right: -18%;
+        text-decoration: 8px #c51b1b line-through;
+       
+      }
+
+      
+      .section-padding{
+        padding: 3vh 0;
+      }
+      
+}
+
